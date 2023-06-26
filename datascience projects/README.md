@@ -1,5 +1,4 @@
-# GA-Projects
-### General Assembly Data Science Course Projects Using Python
+
 
 This repository contains a series of projects that were completed in order to practice and apply the skills covered in-class.
 
